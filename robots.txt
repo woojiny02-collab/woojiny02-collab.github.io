@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://woojiny02-collab.github.io/sitemap.xml
